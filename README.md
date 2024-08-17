@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project investigates the relationship between Body Mass Index (BMI) and the onset of dementia using longitudinal data. The analysis is conducted using Generalized Estimating Equations (GEE) and Survival Analysis, including the Cox Proportional Hazards model. The study utilizes data from the Health and Retirement Study, covering a period from 1996 to 2018, to explore how changes in BMI, along with factors such as gender and race, affect dementia risk over time. The full report detailing the methodology, results, and conclusions of this project can be found in the 'docs/' directory as BMI_and_Dementia_Study.pdf.
+This project investigates the relationship between Body Mass Index (BMI) and the onset of dementia using longitudinal data. The analysis is conducted using Generalized Estimating Equations (GEE) and Survival Analysis, including the Cox Proportional Hazards model. The study utilizes data from the Health and Retirement Study, covering a period from 1996 to 2018, to explore how changes in BMI, along with factors such as gender and race, affect dementia risk over time. The full report detailing the methodology, results, and conclusions of this project can be found in the docs/ directory as BMI_and_Dementia_Study.pdf.
 
 ## Key Features
 
