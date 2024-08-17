@@ -11,14 +11,6 @@ This project investigates the relationship between Body Mass Index (BMI) and the
 - **Survival Analysis**: Time-to-event data is analyzed using the Kaplan-Meier method and Cox Proportional Hazards model to account for the time-varying nature of dementia onset.
 - **Stratified Analysis**: The study explores the effects of gender and race on dementia risk, stratifying the Cox model by these factors.
 
-## Project Structure
-
-- **src/**: Contains the R scripts for performing the GEE and Survival Analysis.
-- **data/**: Includes the dataset used in the analysis, obtained from the Health and Retirement Study (HRS).
-- **results/**: Stores the output of the analysis, including plots and tables summarizing the findings.
-- **docs/**: Contains the project report and any related documentation, including the final PDF report.
-- **README.md**: This file, providing an overview of the project, setup instructions, and other relevant details.
-
 ## Requirements
 
 To run this project, you need the following:
