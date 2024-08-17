@@ -26,7 +26,6 @@ To run this project, you need the following:
 - R (version 4.0 or later)
 - R packages: `geepack`, `survival`, `ggplot2`
 
-You can install the required R packages using:
+## License
 
-```r
-install.packages(c("geepack", "survival", "ggplot2"))
+This project is licensed under the MIT License - see the LICENSE file for details.
